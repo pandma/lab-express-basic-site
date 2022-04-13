@@ -1,0 +1,35 @@
+footer {
+    background-color: #212429;
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.card-img-bottom {
+    height: 700px;
+    object-fit: cover;
+}
+
+.card-img-overlay {
+    padding-left: 10px;
+    font-family: sans-serif;
+    text-shadow: yellowgreen;
+}
+
+.d-block {
+    height: 600px;
+    object-fit: cover;
+}
+
+.nav-link {
+    color: yellow;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    justify-items: space-around;
+}
